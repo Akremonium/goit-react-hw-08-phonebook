@@ -1,0 +1,3 @@
+export * as phonebookActions from "./phonebook-actions";
+export * as phonebookOperations from "./phonebook-operations";
+export * as phonebookSelectors from "./phonebook-selectors";
